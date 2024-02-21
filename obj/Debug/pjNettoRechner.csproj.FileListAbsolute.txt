@@ -1,0 +1,11 @@
+E:\Users\it\Documents\CBM\Dev C#Projecte\pjNettoRechner\bin\Debug\pjNettoRechner.exe.config
+E:\Users\it\Documents\CBM\Dev C#Projecte\pjNettoRechner\bin\Debug\pjNettoRechner.exe
+E:\Users\it\Documents\CBM\Dev C#Projecte\pjNettoRechner\bin\Debug\pjNettoRechner.pdb
+E:\Users\it\Documents\CBM\Dev C#Projecte\pjNettoRechner\obj\Debug\pjNettoRechner.csproj.AssemblyReference.cache
+E:\Users\it\Documents\CBM\Dev C#Projecte\pjNettoRechner\obj\Debug\pjNettoRechner.csproj.SuggestedBindingRedirects.cache
+E:\Users\it\Documents\CBM\Dev C#Projecte\pjNettoRechner\obj\Debug\pjNettoRechner.frmHaupt.resources
+E:\Users\it\Documents\CBM\Dev C#Projecte\pjNettoRechner\obj\Debug\pjNettoRechner.Properties.Resources.resources
+E:\Users\it\Documents\CBM\Dev C#Projecte\pjNettoRechner\obj\Debug\pjNettoRechner.csproj.GenerateResource.cache
+E:\Users\it\Documents\CBM\Dev C#Projecte\pjNettoRechner\obj\Debug\pjNettoRechner.csproj.CoreCompileInputs.cache
+E:\Users\it\Documents\CBM\Dev C#Projecte\pjNettoRechner\obj\Debug\pjNettoRechner.exe
+E:\Users\it\Documents\CBM\Dev C#Projecte\pjNettoRechner\obj\Debug\pjNettoRechner.pdb
